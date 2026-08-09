@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/krishkake69-code/leetcode/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/krishkake69-code/leetcode/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
