@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishkake69-code/leetcode/tree/master/0001-two-sum) |
 | [1140-stone-game-ii](https://github.com/krishkake69-code/leetcode/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/krishkake69-code/leetcode/tree/master/1140-stone-game-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/krishkake69-code/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
